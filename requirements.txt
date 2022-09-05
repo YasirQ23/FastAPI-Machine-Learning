@@ -9,6 +9,7 @@ Cython==0.29.32
 ephem==4.1.3
 fastapi==0.82.0
 fonttools==4.37.1
+gunicorn==20.1.0
 h11==0.13.0
 hijri-converter==2.2.4
 holidays==0.15
